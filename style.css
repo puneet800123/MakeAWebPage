@@ -1,0 +1,49 @@
+.title {
+    
+    background-color:black;
+	color: pink;
+	font-style: italic;
+	font-size: 50px;
+	font-family: serif;
+	text-align:center;
+}
+
+.ss {
+    
+     padding: 5px;
+}
+
+.desc{ 
+
+	background-color: black;
+	color:red;
+	font-style: italic;
+	font-size: 25px;
+}
+.desc1{ 
+
+	background-color: black;
+	color:red;
+	font-style: Georgia;
+	font-size: 25px;
+}
+.desc2{ 
+
+	background-color: black;
+	color:red;
+	font-style: impact;
+	font-size: 25px;
+}
+
+.flex {
+
+	display: flex;
+}
+
+.asd{
+	text-align:center;
+}
+.asd1{
+	text-align:center;
+        font-size:25px;
+}
